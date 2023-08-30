@@ -1,0 +1,8 @@
+.apps {
+    display: flex;
+    flex-direction: column;
+}
+
+.otherComponents {
+    margin-top: 68px;
+}

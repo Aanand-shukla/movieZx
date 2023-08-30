@@ -1,0 +1,12 @@
+.addicon {
+    color: orangered;
+    font-weight: bolder;
+}
+
+.addicon:hover {
+    color: #fff;
+}
+
+.header {
+    width: 100vw;
+}
